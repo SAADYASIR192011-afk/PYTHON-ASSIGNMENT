@@ -1,0 +1,52 @@
+--- Question 1:A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.Ask user for their salary and year of service and print the net bonus amout. ---
+Enter salary: 50000
+Enter years of service: 6
+Bonus = 2500.0
+
+--- Question 2:Write a program to check whether a person is eligible for voting or not.(Accept age from user) if age is greater than 17 eligible otherwise not eligible. ---
+Enter age: 18
+Eligible for voting
+
+--- Question 3:Write a program to check whether a number entered by user is even or odd. ---
+Enter number: 7
+Odd
+
+--- Question 4:Write a program to check whether a number is divisible by 7 or not.Show Answer. ---
+Enter number: 21
+Divisible by 7
+
+--- Question 5:Write a program to display 'Hello' if a number entered by user is a multiple of five,otherwise print 'bye'. ---
+Enter number: 25
+Hello
+
+--- Question 6:Take values of length and breadth of a rectangle from user and print if it is sqaure or rectangle. ---
+Enter length: 5
+Enter breadth: 5
+Square
+
+--- Question 7:Take two int values from user and print greatest among them. ---
+Enter first number: 20
+Enter second number: 10
+Greatest = 20
+
+--- Question 8:A school has following rules for grading system: ---
+--- a.Below 25 - F ---
+--- b.25 to 45 - E ---
+--- c.45 to 50 - D ---
+--- d.50 to 60 - C ---
+--- e.60 to 80 - B ---
+--- f.Above 80 - A ---
+Enter marks: 85
+A
+
+--- Question 9:Ask to enter age,gender (M or F),marital status (Y or N) and then using following rules print their place or service. ---
+--- If employee is female, then she will work only in urban areas. ---
+--- If employee is male and age is in between 20 to 40 then he may work in anywhere. ---
+--- If employee is male and age is in between 40 to 60 then he will work in urban areas only. ---
+--- And any other input of age should print 'Error'. ---
+Enter your age: 25
+Enter gender (M/F): M
+Enter marital status (Y/N): N
+He may work anywhere.
+PS C:\Users\RS TRADER\AppData\Local\Programs\Microsoft VS Code> & "C:\Users\RS TRADER\AppData\Local\Python\pythoncore-3.14-64\python.exe" Untitled-1                                   
+                                    
